@@ -1,9 +1,8 @@
-## Olá!! Me chamo Adam Nascimento
+## Olá!! Me chamo Adam Nascimento.
 
 
-- 🔭 Atualmente estou em busca da minha primeira oportunidade de trabalho
-- 🌱 Estou aprendendo Java, HTML e CSS, Banco de ddados e Cibersecurity
-- 😄 Pronomes: Ele/Dele
+- 🔭 Atualmente estou em busca da minha primeira oportunidade de trabalho.
+- 🌱 Estou aprendendo Java, HTML e CSS, Banco de Dados e Cibersecurity.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Adam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
